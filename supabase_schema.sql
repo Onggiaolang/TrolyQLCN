@@ -337,8 +337,8 @@ INSERT INTO star_awards (student_id, star_type, reason, week_number, awarded_by)
 -- Insert sample notifications
 INSERT INTO notifications (title, content, type, created_by) VALUES
 ('Lịch thi học kỳ', 'Lịch thi học kỳ 1 sẽ bắt đầu từ tuần sau. Các em chuẩn bị ôn tập kỹ.', 'urgent', 'Nguyễn Văn Hà'),
-('Thông báo nghỉ học', 'Thứ 7 tuần này nghỉ học do thời tiết xấu.', 'important', 'Nguyễn Hữu Phúc'),
-('Chúc mừng học sinh xuất sắc', 'Chúc mừng các em đạt điểm cao trong kỳ thi vừa qua!', 'success', 'Nguyễn Hữu Phúc');
+('Thông báo nghỉ học', 'Thứ 7 tuần này nghỉ học do thời tiết xấu.', 'important', 'Nguyễn Văn Hà'),
+('Chúc mừng học sinh xuất sắc', 'Chúc mừng các em đạt điểm cao trong kỳ thi vừa qua!', 'success', 'Nguyễn Văn Hà');
 
 -- Insert sample weekly plans
 INSERT INTO weekly_plans (week_number, day_of_week, content, time_slot, location) VALUES
