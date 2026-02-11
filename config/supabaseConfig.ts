@@ -5,7 +5,7 @@
 
 export const supabaseConfig = {
   url: 'https://jaeafujranojcpixqftg.supabase.co',
-  anonKey: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImphZWFmdWpyYW5vamNwaXhxZnRnIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NjgxODQ4NjUsImV4cCI6MjA4Mzc2MDg2NX0.YNqOBM3r5GIKF3VuYS7cfVrGqIzrt6PZrj-TtaeWwCU'
+  anonKey: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImZmdWRjZnZocHJ5cW1rbWRsY2hsIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzA3NDUyMjQsImV4cCI6MjA4NjMyMTIyNH0.YYj5D9hlujfs2cu0BGMlj0pnm6yiVkVt8MEWwXzRMwE'
 };
 
 /**
